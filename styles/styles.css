@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	color: red;
+	background-color: lightgray;
+	text-transform: uppercase;
+
+}
+
+p{ 
+	text-align: center;
+	 }
+
+body { 
+	text-align: center;
+	background-color: lightgray; 
+	border-top: 10px solid #000000;
+}
+
+#first-p-tag { 
+	font-weight: bold; 
+}
+	 .other-p-tags {font-style: italic;}
+img {border:2px solid black; 
+	 	float: right;}
+  
+
+}
+hr {width 70%}
